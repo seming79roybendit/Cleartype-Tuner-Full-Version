@@ -231,3 +231,6 @@ This repository serves as the official landing page for ClearType Tuner. The sof
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ClearType Tuner today!**
+
+---
+**Last updated:** 2026-09-11 21:36:36 UTC
